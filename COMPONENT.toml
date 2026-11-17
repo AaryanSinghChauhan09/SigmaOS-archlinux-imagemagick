@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-imagemagick"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-imagemagick component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
